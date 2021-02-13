@@ -1139,8 +1139,9 @@ ol, ul {
         margin-top: -45px !important;
     }
 }
-
-
+.phone-link:hover {
+    color: #ec666b !important;
+}
 
 
 
